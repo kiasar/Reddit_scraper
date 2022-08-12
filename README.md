@@ -1,4 +1,4 @@
-# Dictionary Crawler ![](https://img.shields.io/apm/l/vim-mode.svg)
+# Reddit Crawler ![](https://img.shields.io/apm/l/vim-mode.svg)
 This is a python code based on Scrapy package to crawl top 1000 posts of all time of a sub reddit.
 Be aware that this code is published on Agust 8, 2022, and if Reddit will be updated in the future this code may not work properly.
 ## Prerequisites
